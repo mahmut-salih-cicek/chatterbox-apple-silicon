@@ -1,6 +1,6 @@
 gradio>=4.0.0
-soundfile
-numpy
-mlx
-mlx-audio
-huggingface_hub
+soundfile>=0.12.1
+numpy>=1.24.0
+mlx>=0.16.0
+mlx-audio>=0.1.0
+requests>=2.31.0
